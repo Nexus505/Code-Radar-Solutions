@@ -1,14 +1,9 @@
 #include <stdio.h>
 
-void func()
+int main()
 {
     float fl;
     scanf("%f",&fl);
     printf("You entered: %.2f",fl);
-}
-
-int main()
-{
-    func;
     return 0;
 }
