@@ -4,7 +4,7 @@ void func()
 {
     int fl;
     scanf("%f",&fl);
-    printf("%f",fl);
+    printf("You entered: %f",fl);
 }
 
 int main()
