@@ -3,8 +3,8 @@
 int main()
 {
     float x,y,z;
-    scanf("%f",&x);
-    scanf("%f",&y);
+    scanf("%.2f",&x);
+    scanf("%.2f",&y);
     z=x+y;
     printf("Product: %.2f",z);
 }
