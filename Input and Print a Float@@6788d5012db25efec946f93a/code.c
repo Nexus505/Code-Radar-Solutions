@@ -4,7 +4,7 @@ void func()
 {
     int fl;
     scanf("%f",&fl);
-    printf("%d",fl);
+    printf("%f",fl);
 }
 
 int main()
