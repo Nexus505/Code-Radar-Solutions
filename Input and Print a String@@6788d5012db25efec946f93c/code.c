@@ -3,7 +3,7 @@
 int main()
 {
     char srt;
-    scanf("%s",&str);
-    printf("%s",str);
+    scanf("%c",&str);
+    printf("%c",str);
     return 0;
 }
