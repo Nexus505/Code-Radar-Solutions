@@ -2,7 +2,7 @@
 
 void func()
 {
-    int fl;
+    float fl;
     scanf("%f",&fl);
     printf("You entered: %.2f",fl);
 }
